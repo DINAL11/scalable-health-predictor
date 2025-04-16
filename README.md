@@ -43,6 +43,6 @@ project-root/ ├── README.md ├── report.pdf ├── src/ │ ├─
    cd your-repo-name/src/phase4
 
 2. running gui
+   ```bash
    streamlit run app.py
-
 
