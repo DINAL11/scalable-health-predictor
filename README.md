@@ -44,5 +44,5 @@ project-root/ ├── README.md ├── report.pdf ├── src/ │ ├─
 
 2. running gui
    ```bash
-   streamlit run app.py
+   python src/phase4/app.py
 
